@@ -7,7 +7,7 @@
         <STYLE>
             table
             {
-                width=250; 
+                width=240; 
                 height=250;
                 padding: 10px;
                 border: 1px solid black;
