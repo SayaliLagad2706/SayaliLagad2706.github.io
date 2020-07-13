@@ -7,8 +7,8 @@
         <STYLE>
             table
             {
-                width=300; 
-                height=300
+                width=100; 
+                height=100
                 padding: 10px;
                 border: 1px solid black;
                 border-collapse:collapse;
@@ -16,8 +16,8 @@
             }
             
             input {
-                width: 50px; 
-                height: 50px;
+                width: 30px; 
+                height: 30px;
                 text-align:center;
             }
             
